@@ -1,0 +1,223 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    position: relative;
+    width: 1563px;
+    height: 852px;
+    overflow-x: hidden;
+    background: #F4ECE1;
+
+}
+
+
+.menubox h1 {
+    position: absolute;
+    width: 58px;
+    height: 42px;
+    margin: 46px 1382px 761px 123px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 94.8%;
+    color: #FF7E00;
+}
+
+
+ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+.menu {
+    position: absolute;
+    width: 66px;
+    height: 21px;
+
+}
+
+.menu .home {
+    position: absolute;
+    margin: 59px 964px 772px 533px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 94.8%;
+    list-style: none;
+
+
+}
+
+.menu .menub {
+    position: absolute;
+    margin: 59px 847px 772px 655px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 94.8%;
+    list-style: none;
+}
+
+.menu .contact {
+    position: absolute;
+    margin: 59px 701px 772px 772px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 94.8%;
+    list-style: none;
+}
+
+.menu .shop {
+    position: absolute;
+    margin: 59px 591px 772px 916px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 94.8%;
+    list-style: none;
+}
+
+ul li a:hover {
+    color: #FF7E00;
+}
+
+form {
+    position: absolute;
+    left: -113px;
+    border-radius: 30px;
+
+}
+
+input {
+    position: absolute;
+    width: 230px;
+    height: 60px;
+    margin: 39px 117px 753px 1132px;
+    border: none;
+    border-radius: 20px;
+    background-color: #F4ECE1;
+}
+
+input::placeholder {
+
+    padding: 0px 0px 0px 70px;
+    background-color: #F4ECE1;
+    color: #000;
+    align-items: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+
+
+button {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin: 39px 117px 753px 1132px;
+    border: none;
+    left: 150px;
+    top: 1px;
+    border-radius: 30px;
+    background-color: #f4ECE1;
+
+}
+
+
+button .fa {
+    background-color: #f4ECE1;
+    font-size: 13px;
+    padding: 22px;
+    left: 20px;
+    top: 18px;
+    border-radius: 160px;
+}
+
+section {
+    position: absolute;
+    width: 262px;
+    height: 119px;
+}
+
+section h2 {
+    position: absolute;
+    margin: 242px 1214px 500px 87px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 125px;
+    line-height: 94.8%;
+    color: #FF7E00;
+
+}
+
+section h3 {
+    position: absolute;
+    margin: 252px 150px 500px 366px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 94.8%;
+    color: #2F2F2F;
+}
+
+section .oneparagraf {
+    position: absolute;
+    width: 568px;
+    height: 62px;
+    margin: 385px 902px 404px 93px;
+    top: 15px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.btn {
+    height: 70px;
+    width: 188px;
+    margin: 491px 1282px 290px 93px;
+    border-radius: 84px;
+    background: #2F2F2F;
+    color: #f4ECE1;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 94.8%;
+    cursor: pointer;
+    left: -17px;
+
+}
+
+section p{
+    position: absolute;
+    width: 131px;
+    height: 19px;
+    margin: 516px 1055px 316px 377px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 94.8%;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+.food {
+    position: absolute;
+    width: 650px;
+    height: 512px;
+    margin: 121px 79px 20px 734px;
+    padding: 0 150px 0 0;
+}
